@@ -1,8 +1,12 @@
-/*  */
+/* Mengatur Navigasi */
 /* Ubah Warna */
 nav {
     background-color: #00a2c6;
     padding: 5px;
+
+    /* Menambahkan sticky */
+    position: sticky;
+    top: 0; /* agar elemen navigasi selalu berada di atas jendela browser*/
  }
 
 /* Mengilangkantitik dan ukuran */
